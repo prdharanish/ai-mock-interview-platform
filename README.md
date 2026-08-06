@@ -157,17 +157,7 @@ node seedQuestions.js
 6. Add all environment variables from your `server/.env` file.
 7. Deploy the service.
 
-## 📸 Screenshots
 
-*(Replace these placeholders with actual screenshots of your application)*
-
-| Dashboard | Coding Simulator |
-|-----------|------------------|
-| ![Dashboard](#) | ![Simulator](#) |
-
-| Interview Session | Admin Panel |
-|-------------------|-------------|
-| ![Interview](#) | ![Admin](#) |
 
 ## 🔮 Future Enhancements
 
@@ -182,6 +172,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+**Dharanish P R**
+- GitHub: [@prdharanish](https://github.com/prdharanish)
+- LinkedIn: [@dharanishpr](https://www.linkedin.com/in/dharanishpr/)
+
